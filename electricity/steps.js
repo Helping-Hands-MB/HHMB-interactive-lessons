@@ -27,5 +27,9 @@ const lessonSteps = [
     {
         "title": "7. Series Circuits",
         "content": "<p>A series circuit is when you connect multiple components in a row, like a chain. In a series circuit, there is only one path for the electricity to flow.</p>\n<p><strong>Try it yourself</strong>: Create a single loop that contains a battery, a switch, and <em>two</em> light bulbs. What happens to the brightness of the bulbs when you add the second one? (Hint: They share the power!)</p>"
+    },
+    {
+        "title": "8. Parallel Circuits",
+        "content": "<p>A parallel circuit has multiple paths for the electricity to flow, unlike a series circuit which only has one path. If one path is broken, the electricity can still flow through the other paths.</p>\n<p><strong>Try it yourself</strong>: Create a circuit with a battery and two light bulbs, but this time connect them so each bulb has its own separate loop back to the battery. What happens to the brightness of the bulbs compared to the series circuit? What happens if you disconnect one of the bulbs?</p>"
     }
 ];

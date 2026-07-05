@@ -60,3 +60,8 @@ Materials that allow electricity to flow easily are called conductors (like meta
 A series circuit is when you connect multiple components in a row, like a chain. In a series circuit, there is only one path for the electricity to flow.
 
 **Try it yourself**: Create a single loop that contains a battery, a switch, and *two* light bulbs. What happens to the brightness of the bulbs when you add the second one? (Hint: They share the power!)
+
+## 8. Parallel Circuits
+A parallel circuit has multiple paths for the electricity to flow, unlike a series circuit which only has one path. If one path is broken, the electricity can still flow through the other paths.
+
+**Try it yourself**: Create a circuit with a battery and two light bulbs, but this time connect them so each bulb has its own separate loop back to the battery. What happens to the brightness of the bulbs compared to the series circuit? What happens if you disconnect one of the bulbs?

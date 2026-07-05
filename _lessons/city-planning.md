@@ -26,3 +26,13 @@ Green spaces are crucial for clean air and recreation. Use the 'Park' tool to dr
 
 ## 5. Transportation
 Connect your zones! Use the 'Road' or 'Walkway' tools to connect the houses to the shops and the park.
+
+## 6. Public Services
+A city needs more than just houses and shops to thrive. It needs schools for education, hospitals for health, and fire stations for safety.
+
+**Question**: Where is the best place to put a fire station so that fire engines can reach all parts of the city quickly? Try placing one on your map.
+
+## 7. Sustainability and Future Planning
+Great cities plan for the future! Sustainability means building in a way that doesn't harm the environment, like using renewable energy or designing good public transit so people don't need cars as much.
+
+**Question**: How can you make your city more sustainable? Think about where you placed your parks and how easy it is to walk from the neighborhood to the businesses.
