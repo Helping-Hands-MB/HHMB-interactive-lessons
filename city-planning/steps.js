@@ -2,15 +2,15 @@
 const lessonSteps = [
     {
         "title": "1. Welcome & City Limits",
-        "content": "<p>Welcome, future urban designers and architects! Welcome to the Helping Hands MB City Planning Workshop. Today, you are going to learn how real planners design communities where people can live, work, and play together safely and happily.</p>\n<p><div class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/98GwUdouZi0\" title=\"Urban Planning 101\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div></p>"
+        "content": "<p>Welcome, future urban designers and architects! Welcome to the Helping Hands MB City Planning Workshop. Today, you are going to learn how real planners design communities where people can live, work, and play together safely and happily.</p>\n<h1>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<br>Watch this quick video to learn more about how cities are planned: <div class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/Vz2XJ8t-nFk\" title=\"https://www.youtube.com/watch?v=Vz2XJ8t-nFk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div></h1>\n<p><div class=\"video-container\"><iframe src=\"https://www.youtube.com/embed/98GwUdouZi0\" title=\"Urban Planning 101\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe></div></p>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<blockquote>\n<p>main</p>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>\n</blockquote>"
     },
     {
         "title": "2. Neighborhoods",
-        "content": "<p>Neighborhoods are residential zones where people live. Grab the &#39;Neighborhood&#39; tool from the left menu and draw a block of houses.</p>\n<p><strong>Question</strong>: Where would you prefer to live: near the center of town or near the edge?</p>"
+        "content": "<p>Neighborhoods are residential zones where people live. When designing a neighborhood, it is important to keep it away from noisy and polluted areas like factories. Neighborhoods should be quiet, safe, and comfortable. Grab the &#39;Neighborhood&#39; tool from the left menu and draw a block of houses.</p>\n<p><strong>Question</strong>: Where would you prefer to live: near the center of town or near the edge?</p>"
     },
     {
         "title": "3. Businesses and Shops",
-        "content": "<p>Commercial zones provide places to work and shop. Grab the &#39;Business&#39; tool and place some shops near your neighborhood so citizens don&#39;t have to travel far.</p>\n<p><strong>Question</strong>: Why is it important to have businesses close to neighborhoods?</p>"
+        "content": "<p>Commercial zones provide places to work and shop. Businesses should be easily accessible from neighborhoods so people can buy groceries and goods without traveling too far. Grab the &#39;Business&#39; tool and place some shops near your neighborhood so citizens don&#39;t have to travel far.</p>\n<p><strong>Question</strong>: Why is it important to have businesses close to neighborhoods?</p>"
     },
     {
         "title": "4. Parks and Recreation",
