@@ -14,6 +14,8 @@ Continue by clicking the "Next Step" button.
 ## 2. Electricity & Electrons
 What exactly is electricity? Electricity is energy created by the movement of tiny, invisible particles called electrons. These electrons carry a negative charge. Think of them as tiny, energetic particles flowing together inside a wire, similar to water flowing through a garden hose. When they move together, they create usable electrical energy.
 
+[Kids Learn About Electricity](https://www.youtube.com/watch?v=92JAOPdv4JQ)
+
 Start by dragging a battery to the center of the workspace from the left menu. This will be our power source. A **battery** is your energy source. It stores the electrical energy for the rest circuit. When not doing anything, it is actually stored as chemical energy and then becomes electrical energy when in a circuit.
 
 https://www.youtube.com/watch?v=mc979OhitAg
@@ -29,6 +31,8 @@ Drag a wire and connect it from the battery to the light bulb.
 
 Notice it is still not lighting up yet. Let’s learn why by clicking the "Next Step" button.
 
+**Question**: What happens if you connect the wire to the side of the battery instead of the ends?
+
 ## 4. Open vs. Closed Circuits
 To do any real work, electrons need a continuous, uninterrupted path to travel from their energy source, through a device, and back again. This full loop is called a circuit.
 
@@ -39,6 +43,8 @@ When all the wires are connected or a switch is turned on, it completes the loop
 Grab another wire and connect the light bulb to the other end of the battery to close our circuit. 
 
 It should work!
+
+**Question**: Can you think of a way to make the bulb brighter?
 
 ## 5. Adding a Switch
 Try adding a switch to your circuit so it can be turned off or on whenever you want. In other words, can you change this Closed Circuit into an Open Circuit to shut down the bulb?
@@ -53,4 +59,14 @@ Materials that allow electricity to flow easily are called conductors (like meta
 ## 7. Series Circuits
 A series circuit is when you connect multiple components in a row, like a chain. In a series circuit, there is only one path for the electricity to flow.
 
-**Try it yourself**: Create a single loop that contains a battery, a switch, and *two* light bulbs. What happens to the brightness of the bulbs when you add the second one? (Hint: They share the power!)
+**Try it yourself**: Create a single loop that contains a battery, a switch, and *two* light bulbs. What happens to the brightness of the bulbs when you add the second one?
+
+## 8. Parallel Circuits
+A parallel circuit is when you connect components in separate branches, like rungs on a ladder. In a parallel circuit, there are multiple paths for the electricity to flow.
+
+**Try it yourself**: Create a circuit with a battery, a switch, and *two* light bulbs in parallel. What happens to the brightness of the bulbs when you add the second one? (Hint: Each gets the full power!)
+
+## 9. Resistance
+Sometimes we need to limit or control the flow of electricity to protect components. This is where a **resistor** comes in handy. It limits the flow of electrical current, similar to pinching a water hose.
+
+**Try it yourself**: Replace the switch with a resistor in your circuit. What happens to the brightness of the bulbs? Try changing the resistance value.

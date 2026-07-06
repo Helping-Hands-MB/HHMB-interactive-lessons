@@ -1,23 +1,47 @@
 ---
-title: Helping Hands MB Magnetism Lessons
+title: Helping Hands MB Magnetism Basics
 badge: Physics
 icon: magnetism
-simulator: https://phet.colorado.edu/sims/html/magnets-and-electromagnets/latest/magnets-and-electromagnets_en.html
-description: Learn the fundamentals of magnets and magnetic fields by interacting with a bar magnet and an electromagnet. Targeted for 4th/5th graders.
+simulator: https://phet.colorado.edu/sims/html/magnet-and-compass/latest/magnet-and-compass_all.html
+description: Learn the fundamentals of magnetism by experimenting with magnets and compasses. Targeted for 4th/5th graders.
 ---
 
-## 1. Welcome to Magnetism!
-Welcome, future physicists! Today, we are going to explore the invisible force of magnetism. Magnets are all around us, from the compasses we use to navigate to the refrigerators in our kitchens. Let's learn how they work!
+## 1. Welcome to the Magnetism Workshop!
+Welcome, junior physicists, to your interactive magnetism tutorial. Today, you will learn about the invisible forces of magnets and how they interact with compasses. Let's get started.
 
-## 2. North and South Poles
-Every magnet has two ends, called poles: a North pole (N) and a South pole (S).
-Notice the bar magnet on your screen. Try moving the compass around the magnet. What happens to the red needle of the compass?
-The red needle (which points North) is attracted to the South pole of the magnet. Opposite poles attract!
+Continue by clicking the "Next Step" button.
 
-## 3. Magnetic Fields
-The area around a magnet where its magnetic force can be felt is called the magnetic field. You can see the magnetic field represented by the tiny compass needles filling the screen.
-Try moving the bar magnet around and watch how the magnetic field changes. The closer you are to the magnet, the stronger the magnetic field.
+## 2. What is a Magnet?
+A magnet is a material or object that produces a magnetic field. This field pulls on other ferromagnetic materials, such as iron, steel, nickel, and cobalt. Every magnet has two sides, called poles: a North pole (N) and a South pole (S).
 
-## 4. Electromagnets
-Did you know we can create a magnet using electricity? Click on the "Electromagnet" tab in the simulator (or try building one if you are in the lab).
-When electricity flows through a wire coiled around a piece of iron, it creates a magnetic field. This is called an electromagnet! Try changing the voltage of the battery and see what happens to the magnetic field.
+Look at the bar magnet in the center of the workspace. The red end is the North pole, and the blue end is the South pole.
+
+Continue by clicking the "Next Step" button.
+
+## 3. The Magnetic Field
+Notice the tiny compasses in the background surrounding the magnet. In a compass, the arrow shows the direction of the magnetic field. The magnetic field is an invisible area of force around a magnet. 
+
+The lines of magnetic force always flow from the North pole to the South pole. You can see this by looking at how the small compass needles align themselves.
+
+**Try it yourself**: Click and drag the bar magnet around the screen. Watch how the magnetic field changes as you move it!
+
+Continue by clicking the "Next Step" button.
+
+## 4. How a Compass Works
+A compass is a tool used for navigation. Inside a compass is a tiny, lightweight magnet balanced on a pinpoint so it can spin freely. Because opposite poles attract (North attracts South), the North pole of the compass needle is attracted to the Earth's magnetic South pole (which is geographically near the North Pole!).
+
+**Try it yourself:** Grab the large compass from the toolbox and drag it near the bar magnet. What happens to the needle?
+
+**Hint**: Notice the arrow on the compass is pushed or pulled towards or away from the poles of the bar magnet.
+
+Continue by clicking the "Next Step" button.
+
+## 5. Attraction and Repulsion
+One of the most important rules of magnetism is: **Opposites attract, and likes repel.**
+- If you bring a North pole close to a South pole, they will pull towards each other (attract).
+- If you bring a North pole close to another North pole (or a South to a South), they will push away from each other (repel).
+
+## 6. Flipping the Polarity
+What happens if we turn the magnet around?
+
+**Try it yourself**: Find the "Flip Polarity" button in the menu and click it. Watch how the entire magnetic field and the compass needle instantly change direction! The side that was North is now South, and the side that was South is now North.
