@@ -22,6 +22,6 @@ const lessonSteps = [
     },
     {
         "title": "6. Flipping the Polarity",
-        "content": "<p>What happens if we turn the magnet around? </p>\n<p><strong>Try it yourself</strong>: Find the &quot;Flip Polarity&quot; button in the menu and click it. Watch how the entire magnetic field and the compass needle instantly change direction! The side that was North is now South, and the side that was South is now North.</p>"
+        "content": "<p>What happens if we turn the magnet around?</p>\n<p><strong>Try it yourself</strong>: Find the &quot;Flip Polarity&quot; button in the menu and click it. Watch how the entire magnetic field and the compass needle instantly change direction! The side that was North is now South, and the side that was South is now North.</p>"
     }
 ];
