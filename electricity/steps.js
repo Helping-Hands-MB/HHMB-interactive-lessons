@@ -10,7 +10,7 @@ const lessonSteps = [
     },
     {
         "title": "3. Using Electricity",
-        "content": "<p>To create a circuit, it needs a power source (our battery), a device (such as a light bulb), and a flow of electricity between them. </p>\n<p>Grab a Light Bulb from the left menu and drag it into the workspace. Notice it is not lighting up yet.</p>\n<p>Drag a wire and connect it from the battery to the light bulb like shown in the image below.</p>\n<p>[example image of light bulb half connected]</p>\n<p>Notice it is still not lighting up yet. Let’s learn why by clicking the &quot;Next Step&quot; button.</p>\n<p><strong>Question</strong>: What happens if you connect the wire to the side of the battery instead of the ends?</p>"
+        "content": "<p>To create a circuit, it needs a power source (our battery), a device (such as a light bulb), and a flow of electricity between them. </p>\n<p>Grab a Light Bulb from the left menu and drag it into the workspace. Notice it is not lighting up yet.</p>\n<p>Drag a wire and connect it from the battery to the light bulb.</p>\n<p>Notice it is still not lighting up yet. Let’s learn why by clicking the &quot;Next Step&quot; button.</p>\n<p><strong>Question</strong>: What happens if you connect the wire to the side of the battery instead of the ends?</p>"
     },
     {
         "title": "4. Open vs. Closed Circuits",
@@ -27,5 +27,13 @@ const lessonSteps = [
     {
         "title": "7. Series Circuits",
         "content": "<p>A series circuit is when you connect multiple components in a row, like a chain. In a series circuit, there is only one path for the electricity to flow.</p>\n<p><strong>Try it yourself</strong>: Create a single loop that contains a battery, a switch, and <em>two</em> light bulbs. What happens to the brightness of the bulbs when you add the second one? (Hint: They share the power!)</p>"
+    },
+    {
+        "title": "8. Parallel Circuits",
+        "content": "<p>Unlike a series circuit, a parallel circuit has multiple paths for the electricity to flow. If one path is broken, the electricity can still flow through the other paths. This is why houses are wired with parallel circuits so that if one light goes out, the rest stay on!</p>\n<p><strong>Try it yourself</strong>: Try building a circuit with one battery and two light bulbs, but this time, give each light bulb its own separate loop connected to the battery. What happens to the brightness compared to the series circuit?</p>"
+    },
+    {
+        "title": "9. Short Circuits & Safety",
+        "content": "<p>What happens if electricity can flow from one end of a battery directly to the other without having to power a device (like a light bulb)?</p>\n<p>This is called a <strong>short circuit</strong>, and it&#39;s dangerous! Without a device to use the electrical energy, the electricity flows too quickly, creating too much heat. This could start a fire or damage the battery.</p>\n<p><strong>Try it yourself</strong>: In the simulator, connect a single wire directly from the positive end of a battery to the negative end. Look at what happens! The battery will catch on fire in the simulator to show you how dangerous this is. <strong>Never try this with a real battery!</strong></p>"
     }
 ];

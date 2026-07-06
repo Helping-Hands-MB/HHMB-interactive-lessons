@@ -26,3 +26,15 @@ Green spaces are crucial for clean air and recreation. Use the 'Park' tool to dr
 
 ## 5. Transportation
 Connect your zones! Use the 'Road' or 'Walkway' tools to connect the houses to the shops and the park.
+
+## 6. Public Services
+A safe and smart city needs essential services to support its citizens. Every community requires access to education, safety, and healthcare.
+
+Use the tools provided in your drawer to plan for **Schools**, **Fire Stations**, and **Hospitals**. Think carefully about where they should go: should a school be near the neighborhood? Where is the best place for a hospital so an ambulance can quickly reach anywhere in the city?
+
+## 7. Utilities (Power and Water)
+Cities can't function without electricity to light up homes and clean water for drinking. Think back to our electricity lesson!
+
+While drawing your city, imagine where the **Power Plant** and **Water Treatment Facility** would be located. Because they can be noisy and create pollution, planners usually place them further away from residential neighborhoods in an *Industrial Zone*.
+
+**Challenge**: Draw an industrial zone near the edge of your city limits, and make sure it has a road connecting back to the rest of the city!
