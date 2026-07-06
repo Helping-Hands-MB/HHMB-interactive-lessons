@@ -45,4 +45,3 @@ One of the most important rules of magnetism is: **Opposites attract, and likes 
 What happens if we turn the magnet around?
 
 **Try it yourself**: Find the "Flip Polarity" button in the menu and click it. Watch how the entire magnetic field and the compass needle instantly change direction! The side that was North is now South, and the side that was South is now North.
-
