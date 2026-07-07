@@ -9,11 +9,7 @@ description: Learn the fundamentals of urban design by planning neighborhoods, t
 ## 1. Welcome & City Limits
 Welcome, future urban designers and architects! Welcome to the Helping Hands MB City Planning Workshop. Today, you are going to learn how real planners design communities where people can live, work, and play together safely and happily.
 
-<<<<<<< HEAD
-Watch this quick video to learn more about how cities are planned: https://www.youtube.com/watch?v=Vz2XJ8t-nFk
-=======
-[Urban Planning 101](https://www.youtube.com/watch?v=98GwUdouZi0)
->>>>>>> main
+Watch this quick video to learn more about how cities are planned: [Urban Planning 101](https://www.youtube.com/watch?v=98GwUdouZi0)
 
 ## 2. Neighborhoods
 Neighborhoods are residential zones where people live. When designing a neighborhood, it is important to keep it away from noisy and polluted areas like factories. Neighborhoods should be quiet, safe, and comfortable. Grab the 'Neighborhood' tool from the left menu and draw a block of houses.
