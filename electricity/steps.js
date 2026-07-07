@@ -11,8 +11,7 @@ const lessonSteps = [
     },
     {
         "title": "3. Using Electricity",
-        "content": "<p>To create a circuit, it needs a power source (our battery), a device (such as a light bulb), and a flow of electricity between them. </p>\n<p>Grab a Light Bulb from the left menu and drag it into the workspace. Notice it is not lighting up yet.</p>\n<p>Drag a wire and connect it from the battery to the light bulb like shown in the image below.</p>\n<p>[example image of light bulb half connected]</p>\n<p>Notice it is still not lighting up yet. Let’s learn why by clicking the &quot;Next Step&quot; button.</p>\n<p><strong>Question</strong>: What happens if you connect the wire to the side of the battery instead of the ends?</p>"
-        "content": "<p>To create a circuit, it needs a power source (our battery), a device (such as a light bulb), and a flow of electricity between them. </p>\n<p>Grab a Light Bulb from the left menu and drag it into the workspace. Notice it is not lighting up yet.</p>\n<p>Drag a wire and connect it from the battery to the light bulb.</p>\n<p>Notice it is still not lighting up yet. Let’s learn why by clicking the &quot;Next Step&quot; button.</p>"
+        "content": "<p>To create a circuit, it needs a power source (our battery), a device (such as a light bulb), and a flow of electricity between them. </p>\n<p>Grab a Light Bulb from the left menu and drag it into the workspace. Notice it is not lighting up yet.</p>\n<p>Drag a wire and connect it from the battery to the light bulb.</p>\n<p>Notice it is still not lighting up yet. Let’s learn why by clicking the &quot;Next Step&quot; button.</p>\n<p><strong>Question</strong>: What happens if you connect the wire to the side of the battery instead of the ends?</p>"
     },
     {
         "title": "4. Open vs. Closed Circuits",
