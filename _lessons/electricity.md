@@ -18,6 +18,8 @@ What exactly is electricity? Electricity is energy created by the movement of ti
 
 Start by dragging a battery to the center of the workspace from the left menu. This will be our power source. A **battery** is your energy source. It stores the electrical energy for the rest circuit. When not doing anything, it is actually stored as chemical energy and then becomes electrical energy when in a circuit.
 
+https://www.youtube.com/watch?v=mc979OhitAg
+
 Continue by clicking the "Next Step" button.
 
 ## 3. Using Electricity
@@ -57,16 +59,14 @@ Materials that allow electricity to flow easily are called conductors (like meta
 ## 7. Series Circuits
 A series circuit is when you connect multiple components in a row, like a chain. In a series circuit, there is only one path for the electricity to flow.
 
-**Try it yourself**: Create a single loop that contains a battery, a switch, and *two* light bulbs. What happens to the brightness of the bulbs when you add the second one? (Hint: They share the power!)
+**Try it yourself**: Create a single loop that contains a battery, a switch, and *two* light bulbs. What happens to the brightness of the bulbs when you add the second one?
 
 ## 8. Parallel Circuits
-Unlike a series circuit, a parallel circuit has multiple paths for the electricity to flow. If one path is broken, the electricity can still flow through the other paths. This is why houses are wired with parallel circuits so that if one light goes out, the rest stay on!
+A parallel circuit is when you connect components in separate branches, like rungs on a ladder. In a parallel circuit, there are multiple paths for the electricity to flow.
 
-**Try it yourself**: Try building a circuit with one battery and two light bulbs, but this time, give each light bulb its own separate loop connected to the battery. What happens to the brightness compared to the series circuit?
+**Try it yourself**: Create a circuit with a battery, a switch, and *two* light bulbs in parallel. What happens to the brightness of the bulbs when you add the second one? (Hint: Each gets the full power!)
 
-## 9. Short Circuits & Safety
-What happens if electricity can flow from one end of a battery directly to the other without having to power a device (like a light bulb)?
+## 9. Resistance
+Sometimes we need to limit or control the flow of electricity to protect components. This is where a **resistor** comes in handy. It limits the flow of electrical current, similar to pinching a water hose.
 
-This is called a **short circuit**, and it's dangerous! Without a device to use the electrical energy, the electricity flows too quickly, creating too much heat. This could start a fire or damage the battery.
-
-**Try it yourself**: In the simulator, connect a single wire directly from the positive end of a battery to the negative end. Look at what happens! The battery will catch on fire in the simulator to show you how dangerous this is. **Never try this with a real battery!**
+**Try it yourself**: Replace the switch with a resistor in your circuit. What happens to the brightness of the bulbs? Try changing the resistance value.
