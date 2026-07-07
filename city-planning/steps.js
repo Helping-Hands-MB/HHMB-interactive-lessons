@@ -22,10 +22,10 @@ const lessonSteps = [
     },
     {
         "title": "6. Public Services",
-        "content": "<p>A safe and smart city needs essential services to support its citizens. Every community requires access to education, safety, and healthcare. </p>\n<p>Use the tools provided in your drawer to plan for <strong>Schools</strong>, <strong>Fire Stations</strong>, and <strong>Hospitals</strong>. Think carefully about where they should go: should a school be near the neighborhood? Where is the best place for a hospital so an ambulance can quickly reach anywhere in the city?</p>"
+        "content": "<p>A safe and smart city needs essential services to support its citizens. Every community requires access to education, safety, and healthcare.</p>\n<p>Use the tools provided in your drawer to plan for <strong>Schools</strong>, <strong>Fire Stations</strong>, and <strong>Hospitals</strong>. Think carefully about where they should go: should a school be near the neighborhood? Where is the best place for a hospital so an ambulance can quickly reach anywhere in the city?</p>"
     },
     {
         "title": "7. Utilities (Power and Water)",
-        "content": "<p>Cities can&#39;t function without electricity to light up homes and clean water for drinking. Think back to our electricity lesson! </p>\n<p>While drawing your city, imagine where the <strong>Power Plant</strong> and <strong>Water Treatment Facility</strong> would be located. Because they can be noisy and create pollution, planners usually place them further away from residential neighborhoods in an <em>Industrial Zone</em>. </p>\n<p><strong>Challenge</strong>: Draw an industrial zone near the edge of your city limits, and make sure it has a road connecting back to the rest of the city!</p>"
+        "content": "<p>Cities can&#39;t function without electricity to light up homes and clean water for drinking. Think back to our electricity lesson!</p>\n<p>While drawing your city, imagine where the <strong>Power Plant</strong> and <strong>Water Treatment Facility</strong> would be located. Because they can be noisy and create pollution, planners usually place them further away from residential neighborhoods in an <em>Industrial Zone</em>.</p>\n<p><strong>Challenge</strong>: Draw an industrial zone near the edge of your city limits, and make sure it has a road connecting back to the rest of the city!</p>"
     }
 ];
