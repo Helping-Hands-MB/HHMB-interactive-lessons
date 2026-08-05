@@ -155,8 +155,10 @@ function build() {
         
         // Hydrate the layout template
         const simulatorPath = metadata.simulator || "https://phet.colorado.edu/sims/html/circuit-construction-kit-dc/latest/circuit-construction-kit-dc_en.html?screens=1";
+        const description = metadata.description || `Interactive ${metadata.title} lesson for 4th/5th grade students by Helping Hands MB.`;
         let hydratedHtml = lessonTemplate
             .replace(/{{TITLE}}/g, metadata.title)
+            .replace(/{{DESCRIPTION}}/g, description)
             .replace(/{{RELATIVE_PATH}}/g, relativePath)
             .replace(/{{SIMULATOR_PATH}}/g, simulatorPath);
 
