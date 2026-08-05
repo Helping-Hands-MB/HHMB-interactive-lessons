@@ -1,7 +1,7 @@
 {
   "name": "hhmb-circuit-construction-lessons",
   "version": "1.0.0",
-  "description": "Interactive Steam circuit construction lessons for Helping Hands MB",
+  "description": "Interactive STEAM lessons and modules for Helping Hands MB, a student-led nonprofit providing STEAM education to younger students in South Florida.",
   "main": "build.js",
   "scripts": {
     "build": "node build.js",
