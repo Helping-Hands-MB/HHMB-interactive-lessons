@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
       - The first column (sidebar) takes up a variable width (defaulting to 350px).
       - The second column (simulation) takes up 1fr (the rest of the available space).
     */
-    grid-template-columns: var(--sidebar-width, 350px) 1fr;
+    grid-template-columns: min(var(--sidebar-width, 350px), 60vw) 1fr;
     height: 100vh;
     transition: grid-template-columns 0.15s ease-out; /* Smooth transition for preset sizing */
 }
@@ -502,12 +502,12 @@ button:disabled {
 @media (max-width: 768px) {
     .app-container {
         grid-template-columns: 1fr;
-        grid-template-rows: auto 1fr;
+        grid-template-rows: 45vh 55vh;
         height: 100vh;
     }
     
     .tutorial-panel {
-        height: 400px;
+        height: 100%;
         border-right: none;
         border-bottom: 1px solid var(--border-color);
     }
@@ -517,7 +517,7 @@ button:disabled {
     }
     
     .simulation-container {
-        height: calc(100vh - 400px);
+        height: 100%;
     }
 }
 
