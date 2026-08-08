@@ -367,6 +367,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .lesson-content {
     flex-grow: 1;
+    flex-shrink: 1;
+    min-height: 0;
     padding: 1.5rem;
     overflow-y: auto; /* Adds a scrollbar if the lesson text gets too long */
 }
