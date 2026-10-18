@@ -1,7 +1,7 @@
 {
   "name": "hhmb-circuit-construction-lessons",
   "version": "1.0.0",
-  "description": "Interactive STEAM lessons and modules for Helping Hands MB, a student-led nonprofit providing STEAM education to younger students in South Florida.",
+  "description": "Helping Hands MB is a student-led non-profit based in South Florida with a mission to help the community through STEAM Projects.",
   "main": "build.js",
   "scripts": {
     "build": "node build.js",
